@@ -1,0 +1,14 @@
+{
+  "from": "963716861",
+  "to": "384313515",
+  "message": {
+    "type": "remote_command",
+    "command": {
+      "type": "mouse_move",
+      "x": 440,
+      "y": -62
+    }
+  },
+  "timestamp": 1754298063,
+  "id": "f02d86303d5a4ef6"
+}
