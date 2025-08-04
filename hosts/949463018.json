@@ -5,9 +5,9 @@
     "hostname": "DESKTOP-8PCDL71",
     "system": "Windows",
     "version": "2.0-Fixed",
-    "clients": 1
+    "clients": 0
   },
   "status": "online",
-  "last_seen": 1754299417.7445161,
+  "last_seen": 1754299478.0149522,
   "type": "host"
 }
