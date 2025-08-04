@@ -1,0 +1,13 @@
+{
+  "from": "384313515",
+  "to": "963716861",
+  "message": {
+    "type": "connection_accepted",
+    "host_info": {
+      "hostname": "DESKTOP-8PCDL71",
+      "system": "Windows"
+    }
+  },
+  "timestamp": 1754298051,
+  "id": "a6ad59e7440aaa8a"
+}
