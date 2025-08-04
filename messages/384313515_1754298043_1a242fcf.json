@@ -1,0 +1,13 @@
+{
+  "from": "963716861",
+  "to": "384313515",
+  "message": {
+    "type": "client_connect",
+    "client_info": {
+      "hostname": "SuperStar",
+      "system": "Windows"
+    }
+  },
+  "timestamp": 1754298043,
+  "id": "b2cad7c09092d1a1"
+}
