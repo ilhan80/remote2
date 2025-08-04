@@ -1,0 +1,9 @@
+{
+  "from": "007654688",
+  "to": "949463018",
+  "message": {
+    "type": "client_disconnect"
+  },
+  "timestamp": 1754299454,
+  "id": "7d247c9ecaf17720"
+}
